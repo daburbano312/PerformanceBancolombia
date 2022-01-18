@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1422" it="0" lt="1421" ct="1100" ts="1642475465125" s="false" lb="HomePage40 /" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="5104" sby="472" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,422 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/</java.net.URL>
+</httpSample>
+<httpSample t="1422" it="0" lt="1421" ct="1100" ts="1642475465125" s="false" lb="HomePage69 /" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="7148" sby="472" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,422 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="0" ct="0" ts="1642475466559" s="true" lb="HomePage73 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="618" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="0" ct="0" ts="1642475466559" s="true" lb="HomePage44 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F" rc="204" rm="No Content" tn="Registro 1-1" dt="" by="214" sby="618" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F</java.net.URL>
+</httpSample>
+<httpSample t="144" it="0" lt="0" ct="0" ts="1642475466709" s="true" lb="HomePage74 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="618" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F</java.net.URL>
+</httpSample>
+<httpSample t="145" it="0" lt="0" ct="0" ts="1642475466710" s="true" lb="HomePage45 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F" rc="204" rm="No Content" tn="Registro 1-1" dt="" by="214" sby="618" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F</java.net.URL>
+</httpSample>
+<httpSample t="242" it="0" lt="240" ct="0" ts="1642475466857" s="true" lb="Login46 /index.php" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="7325" sby="552" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account/register</java.net.URL>
+</httpSample>
+<httpSample t="245" it="0" lt="244" ct="0" ts="1642475466856" s="true" lb="Login75 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="6207" sby="549" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account/login</java.net.URL>
+</httpSample>
+<httpSample t="137" it="0" lt="0" ct="0" ts="1642475467105" s="true" lb="Login79 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%2Flogin" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="657" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%2Flogin</java.net.URL>
+</httpSample>
+<httpSample t="154" it="0" lt="154" ct="0" ts="1642475467104" s="true" lb="Login50 /index.php" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="762" sby="558" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&amp;customer_group_id=1</java.net.URL>
+</httpSample>
+<httpSample t="617" it="0" lt="0" ct="473" ts="1642475467260" s="true" lb="Login51 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%2Fregister" rc="204" rm="No Content" tn="Registro 1-1" dt="" by="215" sby="663" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%2Fregister</java.net.URL>
+</httpSample>
+<httpSample t="195" it="0" lt="195" ct="0" ts="1642475467880" s="true" lb="Login52 /index.php?route=account/register" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="5614" sby="1711" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account/register</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="343" ct="139" ts="1642475468077" s="true" lb="Login53 /index.php" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="6418" sby="405" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=account/success</java.net.URL>
+</httpSample>
+<httpSample t="141" it="0" lt="0" ct="0" ts="1642475468421" s="true" lb="Login54 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%2Fsuccess" rc="204" rm="No Content" tn="Registro 1-1" dt="" by="214" sby="581" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%2Fsuccess</java.net.URL>
+</httpSample>
+<httpSample t="1383" it="0" lt="624" ct="477" ts="1642475467243" s="false" lb="Login80 /index.php?route=account/login" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="6012" sby="2220" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,383 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <httpSample t="624" it="0" lt="624" ct="477" ts="1642475467243" s="true" lb="Login80 /index.php?route=account/login-0" rc="302" rm="Found" tn="Registro de Orden 2-1" dt="text" by="802" sby="976" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us/index.php?route=account/login</java.net.URL>
+  </httpSample>
+  <httpSample t="568" it="0" lt="568" ct="422" ts="1642475467879" s="true" lb="Login80 /index.php?route=account/login-1" rc="302" rm="Found" tn="Registro de Orden 2-1" dt="text" by="836" sby="623" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/account</java.net.URL>
+  </httpSample>
+  <httpSample t="178" it="0" lt="177" ct="0" ts="1642475468448" s="true" lb="Login80 /index.php?route=account/login-2" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="4374" sby="621" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/login</java.net.URL>
+</httpSample>
+<httpSample t="318" it="0" lt="142" ct="0" ts="1642475468628" s="true" lb="Login81 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="5173" sby="1164" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="142" it="0" lt="142" ct="0" ts="1642475468628" s="true" lb="Login81 /index.php-0" rc="302" rm="Found" tn="Registro de Orden 2-1" dt="text" by="799" sby="582" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Faccount</java.net.URL>
+  </httpSample>
+  <httpSample t="176" it="0" lt="176" ct="0" ts="1642475468770" s="true" lb="Login81 /index.php-1" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="4374" sby="582" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/login</java.net.URL>
+</httpSample>
+<httpSample t="134" it="0" lt="0" ct="0" ts="1642475468948" s="true" lb="Login85 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="663" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount</java.net.URL>
+</httpSample>
+<httpSample t="742" it="0" lt="149" ct="0" ts="1642475468562" s="true" lb="Confirm55 /index.php" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="5174" sby="1102" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="149" it="0" lt="149" ct="0" ts="1642475468562" s="true" lb="Confirm55 /index.php-0" rc="302" rm="Found" tn="Registro 1-1" dt="text" by="799" sby="551" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Faccount</java.net.URL>
+  </httpSample>
+  <httpSample t="592" it="0" lt="592" ct="418" ts="1642475468712" s="true" lb="Confirm55 /index.php-1" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="4375" sby="551" ng="1" na="2">
+    <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opencart.abstracta.us:443/index.php?route=account/login</java.net.URL>
+</httpSample>
+<httpSample t="333" it="0" lt="332" ct="133" ts="1642475469084" s="true" lb="PhoneYPDA86 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="9264" sby="414" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=product/category&amp;path=24</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="0" ct="0" ts="1642475469417" s="true" lb="PhoneYPDA87 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%2Fcategory%26path%3D24" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="652" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%2Fcategory%26path%3D24</java.net.URL>
+</httpSample>
+<httpSample t="160" it="0" lt="160" ct="0" ts="1642475469554" s="true" lb="htc88 /index.php?route=checkout/cart/add" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="1023" sby="599" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=checkout/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="556" it="0" lt="0" ct="421" ts="1642475469306" s="true" lb="Confirm59 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount" rc="204" rm="No Content" tn="Registro 1-1" dt="" by="215" sby="663" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="154" ct="0" ts="1642475469714" s="true" lb="htc89 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="1095" sby="431" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=common%2Fcart%2Finfo</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1642475469869" s="true" lb="htc90 /image/cache/catalog/demo/htc_touch_hd_1-47x47.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="1896" sby="413" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/htc_touch_hd_1-47x47.jpg</java.net.URL>
+</httpSample>
+<httpSample t="181" it="0" lt="180" ct="0" ts="1642475469863" s="true" lb="LogOut63 /index.php" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="6039" sby="583" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Flogout</java.net.URL>
+</httpSample>
+<httpSample t="217" it="0" lt="216" ct="0" ts="1642475470008" s="true" lb="Monitors91 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="9307" sby="499" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=product%2Fcategory&amp;path=25_28</java.net.URL>
+</httpSample>
+<httpSample t="202" it="0" lt="202" ct="0" ts="1642475470046" s="true" lb="LogOut64 /index.php" rc="200" rm="OK" tn="Registro 1-1" dt="text" by="4200" sby="583" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Flogout</java.net.URL>
+</httpSample>
+<httpSample t="137" it="0" lt="136" ct="0" ts="1642475470225" s="true" lb="Monitors93 /image/cache/catalog/demo/samsung_syncmaster_941bw-228x228.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="10609" sby="428" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/samsung_syncmaster_941bw-228x228.jpg</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="0" ct="0" ts="1642475470249" s="true" lb="LogOut68 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout" rc="204" rm="No Content" tn="Registro 1-1" dt="" by="214" sby="661" ng="1" na="2">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="0" ct="0" ts="1642475470364" s="true" lb="Monitors94 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="636" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28</java.net.URL>
+</httpSample>
+<httpSample t="138" it="0" lt="138" ct="0" ts="1642475470501" s="true" lb="Monitors92 /image/cache/catalog/demo/apple_cinema_30-228x228.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="9243" sby="419" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/apple_cinema_30-228x228.jpg</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="212" ct="0" ts="1642475470640" s="true" lb="AppleCinema95 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="14749" sby="515" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=product%2Fproduct&amp;path=25_28&amp;product_id=42</java.net.URL>
+</httpSample>
+<httpSample t="56" it="0" lt="55" ct="38" ts="1642475470856" s="true" lb="AppleCinema102 /js/300/addthis_widget.js" rc="308" rm="Permanent Redirect" tn="Registro de Orden 2-1" dt="text" by="438" sby="319" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://s7.addthis.com/js/300/addthis_widget.js</java.net.URL>
+</httpSample>
+<httpSample t="140" it="0" lt="140" ct="0" ts="1642475470914" s="true" lb="AppleCinema97 /catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="1431" sby="451" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css</java.net.URL>
+</httpSample>
+<httpSample t="139" it="0" lt="138" ct="0" ts="1642475471076" s="true" lb="AppleCinema101 /catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="6780" sby="435" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js</java.net.URL>
+</httpSample>
+<httpSample t="289" it="0" lt="288" ct="142" ts="1642475471217" s="true" lb="AppleCinema98 /catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="7936" sby="426" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1642475471508" s="true" lb="AppleCinema96 /catalog/view/javascript/jquery/magnific/magnific-popup.css" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="2281" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/catalog/view/javascript/jquery/magnific/magnific-popup.css</java.net.URL>
+</httpSample>
+<httpSample t="144" it="0" lt="143" ct="0" ts="1642475471663" s="true" lb="AppleCinema104 /image/cache/catalog/demo/canon_eos_5d_2-74x74.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="3198" sby="429" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/canon_eos_5d_2-74x74.jpg</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="146" ct="0" ts="1642475471809" s="true" lb="AppleCinema105 /image/cache/catalog/demo/imac_1-200x200.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="5589" sby="423" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/imac_1-200x200.jpg</java.net.URL>
+</httpSample>
+<httpSample t="143" it="0" lt="143" ct="0" ts="1642475471958" s="true" lb="AppleCinema108 /image/cache/catalog/demo/hp_1-74x74.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="2429" sby="419" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/hp_1-74x74.jpg</java.net.URL>
+</httpSample>
+<httpSample t="143" it="0" lt="143" ct="0" ts="1642475472104" s="true" lb="AppleCinema109 /image/cache/catalog/demo/canon_logo-74x74.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="2164" sby="425" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/canon_logo-74x74.jpg</java.net.URL>
+</httpSample>
+<httpSample t="149" it="0" lt="149" ct="0" ts="1642475472249" s="true" lb="AppleCinema107 /image/cache/catalog/demo/compaq_presario-74x74.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="2345" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/compaq_presario-74x74.jpg</java.net.URL>
+</httpSample>
+<httpSample t="143" it="0" lt="143" ct="0" ts="1642475472400" s="true" lb="AppleCinema106 /image/cache/catalog/demo/canon_eos_5d_1-74x74.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="2694" sby="429" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/canon_eos_5d_1-74x74.jpg</java.net.URL>
+</httpSample>
+<httpSample t="152" it="0" lt="150" ct="0" ts="1642475472545" s="true" lb="AppleCinema99 /catalog/view/javascript/jquery/datetimepicker/moment/moment.min.js" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="17396" sby="424" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/catalog/view/javascript/jquery/datetimepicker/moment/moment.min.js</java.net.URL>
+</httpSample>
+<httpSample t="451" it="0" lt="163" ct="0" ts="1642475472698" s="true" lb="AppleCinema100 /catalog/view/javascript/jquery/datetimepicker/moment/moment-with-locales.min.js" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="66483" sby="437" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/catalog/view/javascript/jquery/datetimepicker/moment/moment-with-locales.min.js</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="154" ct="0" ts="1642475473151" s="true" lb="AppleCinema115 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="848" sby="467" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=product%2Fproduct%2Freview&amp;product_id=42</java.net.URL>
+</httpSample>
+<httpSample t="285" it="0" lt="0" ct="143" ts="1642475473308" s="true" lb="AppleCinema116 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26path%3D25_28%26product_id%3D42" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="215" sby="719" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26path%3D25_28%26product_id%3D42</java.net.URL>
+</httpSample>
+<httpSample t="2" it="0" lt="0" ct="0" ts="1642475473595" s="false" lb="AppleCinema117 /index.php?route=checkout/cart/add" rc="Non HTTP response code: java.lang.IllegalArgumentException" rm="Non HTTP response message: MIME type may not be blank" tn="Registro de Orden 2-1" dt="text" by="1207" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=checkout/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="968" it="0" lt="639" ct="493" ts="1642475473599" s="true" lb="CheckOut119 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="6883" sby="1101" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="639" it="0" lt="639" ct="493" ts="1642475473599" s="true" lb="CheckOut119 /index.php-0" rc="302" rm="Found" tn="Registro de Orden 2-1" dt="text" by="826" sby="551" ng="1" na="1">
+    <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout/checkout</java.net.URL>
+  </httpSample>
+  <httpSample t="326" it="0" lt="326" ct="142" ts="1642475474241" s="true" lb="CheckOut119 /index.php-1" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="6057" sby="550" ng="1" na="1">
+    <java.net.URL>http://opencart.abstracta.us:80/index.php?route=checkout/cart</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://opencart.abstracta.us:80/index.php?route=checkout/cart</java.net.URL>
+</httpSample>
+<httpSample t="141" it="0" lt="141" ct="0" ts="1642475474568" s="true" lb="CheckOut121 /image/cache/catalog/demo/htc_touch_hd_1-47x47.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="1896" sby="488" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/image/cache/catalog/demo/htc_touch_hd_1-47x47.jpg</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="155" ct="0" ts="1642475474711" s="true" lb="CheckOut124 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="5107" sby="509" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fpayment_address</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="143" ct="0" ts="1642475474869" s="true" lb="CheckOut125 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="10139" sby="551" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fcheckout%2Fcountry&amp;country_id=222</java.net.URL>
+</httpSample>
+<httpSample t="151" it="0" lt="151" ct="0" ts="1642475475016" s="true" lb="CheckOut126 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="3549" sby="550" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fcheckout%2Fcountry&amp;country_id=47</java.net.URL>
+</httpSample>
+<httpSample t="147" it="0" lt="147" ct="0" ts="1642475475168" s="true" lb="CheckOut127 /index.php?route=checkout/payment_address/save" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="813" sby="784" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout/payment_address/save</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="158" ct="0" ts="1642475475317" s="true" lb="CheckOut128 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="5102" sby="510" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fshipping_address</java.net.URL>
+</httpSample>
+<httpSample t="148" it="0" lt="145" ct="0" ts="1642475475479" s="true" lb="CheckOut129 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="10111" sby="551" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fcheckout%2Fcountry&amp;country_id=222</java.net.URL>
+</httpSample>
+<httpSample t="601" it="0" lt="600" ct="441" ts="1642475475628" s="true" lb="CheckOut130 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="5108" sby="509" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fpayment_address</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="152" ct="0" ts="1642475476229" s="true" lb="CheckOut131 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="3521" sby="550" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fcheckout%2Fcountry&amp;country_id=47</java.net.URL>
+</httpSample>
+<httpSample t="151" it="0" lt="151" ct="0" ts="1642475476384" s="true" lb="CheckOut132 /index.php?route=checkout/shipping_address/save" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="813" sby="794" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout/shipping_address/save</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="154" ct="0" ts="1642475476536" s="true" lb="CheckOut133 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="1207" sby="509" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fshipping_method</java.net.URL>
+</httpSample>
+<httpSample t="161" it="0" lt="160" ct="0" ts="1642475476693" s="true" lb="CheckOut135 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="5107" sby="509" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fpayment_address</java.net.URL>
+</httpSample>
+<httpSample t="161" it="0" lt="160" ct="0" ts="1642475476857" s="true" lb="CheckOut134 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="5102" sby="510" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fshipping_address</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1642475477020" s="true" lb="CheckOut136 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="3521" sby="550" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fcheckout%2Fcountry&amp;country_id=47</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1642475477175" s="true" lb="CheckOut137 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="3521" sby="550" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fcheckout%2Fcountry&amp;country_id=47</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1642475477330" s="true" lb="CheckOut138 /index.php?route=checkout/shipping_method/save" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="870" sby="705" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout/shipping_method/save</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="155" ct="0" ts="1642475477486" s="true" lb="CheckOut139 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="1309" sby="508" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fpayment_method</java.net.URL>
+</httpSample>
+<httpSample t="587" it="0" lt="587" ct="434" ts="1642475477643" s="true" lb="CheckOut140 /index.php?route=checkout/payment_method/save" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="870" sby="705" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout/payment_method/save</java.net.URL>
+</httpSample>
+<httpSample t="154" it="0" lt="154" ct="0" ts="1642475478232" s="true" lb="CheckOut141 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="962" sby="501" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=checkout%2Fconfirm</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1642475478388" s="true" lb="Confirmar142 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="916" sby="542" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=extension%2Fpayment%2Fcod%2Fconfirm</java.net.URL>
+</httpSample>
+<httpSample t="313" it="0" lt="312" ct="135" ts="1642475478543" s="true" lb="Confirmar143 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="6144" sby="406" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=checkout/success</java.net.URL>
+</httpSample>
+<httpSample t="134" it="0" lt="0" ct="0" ts="1642475478858" s="true" lb="Confirmar144 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcheckout%2Fsuccess" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="583" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcheckout%2Fsuccess</java.net.URL>
+</httpSample>
+<httpSample t="209" it="0" lt="208" ct="0" ts="1642475478992" s="true" lb="Confirmar145 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="9178" sby="475" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/index.php?route=common%2Fhome</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="0" ct="0" ts="1642475479203" s="true" lb="Confirmar148 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="601" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome</java.net.URL>
+</httpSample>
+<httpSample t="139" it="0" lt="0" ct="0" ts="1642475479341" s="true" lb="Confirmar147 /mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="601" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dcommon%252Fhome</java.net.URL>
+</httpSample>
+<httpSample t="273" it="0" lt="138" ct="0" ts="1642475479482" s="true" lb="Confirmar146 /image/cache/catalog/demo/banners/iPhone6-1140x380.jpg" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="bin" by="35180" sby="404" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://opencart.abstracta.us/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg</java.net.URL>
+</httpSample>
+<httpSample t="636" it="0" lt="635" ct="447" ts="1642475479757" s="true" lb="LogOut149 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="4201" sby="550" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Flogout</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="204" ct="0" ts="1642475480394" s="true" lb="LogOut150 /index.php" rc="200" rm="OK" tn="Registro de Orden 2-1" dt="text" by="4200" sby="550" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/index.php?route=account%2Flogout</java.net.URL>
+</httpSample>
+<httpSample t="142" it="0" lt="0" ct="0" ts="1642475480618" s="true" lb="LogOut154 /mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout" rc="204" rm="No Content" tn="Registro de Orden 2-1" dt="" by="214" sby="661" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Flogout</java.net.URL>
+</httpSample>
+
+</testResults>
